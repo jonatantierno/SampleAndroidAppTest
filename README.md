@@ -1,0 +1,4 @@
+SampleAndroidAppTest
+====================
+
+Tests for SampleAndroidApp
